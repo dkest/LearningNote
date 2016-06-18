@@ -1,0 +1,8 @@
+
+资产类型	前缀	例子
+图标	ic_	ic_star.png
+启动图标	ic_launcher	ic_launcher_calendar.png
+菜单图标和操作栏图标	ic_menu	ic_menu_archive.png
+状态栏图标	ic_stat_notify	ic_stat_notify_msg.png
+标签（选项卡）的图标	ic_tab	ic_tab_recent.png
+对话框的图标	ic_dialog	ic_dialog_info.png
