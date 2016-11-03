@@ -9,6 +9,7 @@
 * [彻底了解 View 时间机制中的 冒泡和隧道](http://blog.csdn.net/github_26939093/article/details/51124443)
 * [二维码生成和识别](https://github.com/bingoogolapple/BGAQRCode-Android)
 * [详解LayoutInflater.inflate()](https://zhuanlan.zhihu.com/p/23334059)
+* [Retrofit](http://www.jianshu.com/p/1ef0ba0bccc6)
 ##有问题反馈
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 
