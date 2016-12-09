@@ -11,6 +11,7 @@
 * [详解LayoutInflater.inflate()](https://zhuanlan.zhihu.com/p/23334059)
 * [Retrofit](http://www.jianshu.com/p/1ef0ba0bccc6)
 * [OKHttp3源码解析](http://www.jianshu.com/p/dd412b8ba43f)
+* [Android 自定义View合集](http://blog.csdn.net/u011507982/article/details/51199644)
 ##有问题反馈
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 
