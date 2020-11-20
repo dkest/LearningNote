@@ -11,7 +11,7 @@ where
    and operate_time>1371169729 
    and operate_time<1371174603 
    and type=2;
-​```
+
 
 > 是否需要给每个字段都加上索引？
 > 不需要！可以考虑加一个联合索引。因为是最左前缀匹配，所以需要把operator_time 放到最后面
