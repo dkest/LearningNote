@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\DDD"
+    "\\设计模式",
+    "\\设计模式\\创建型",
+    "\\设计模式\\创建型\\单例模式.md",
+    "\\设计模式\\结构型"
   ],
-  "SelectedNode": "\\DDD\\DDD的设计流程.md",
+  "SelectedNode": "\\设计模式\\设计模式.md",
   "PreviewInSolutionExplorer": false
 }
